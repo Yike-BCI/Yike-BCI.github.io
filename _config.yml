@@ -18,9 +18,9 @@ title: | # the main title
   孙艺珂<br />
   Sun, Yike
 
-tagline: | # it will display as the subtitle
-  助理教授，生物医学工程，北京航空航天大学<br />
-  Assistant Professor, Biomedical Engineering, BUAA, Beihang University, Beijing, China.
+# tagline: | # it will display as the subtitle
+#   助理教授，生物医学工程，北京航空航天大学<br />
+#   Assistant Professor, Biomedical Engineering, BUAA, Beihang University, Beijing, China.
 
 
 description: | # used by seo meta and the atom feed

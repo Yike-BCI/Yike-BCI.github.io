@@ -1,6 +1,6 @@
 ---
 layout: page
-icon: fas fa-stream
+icon: fas fa-shield
 order: 4
 ---
 

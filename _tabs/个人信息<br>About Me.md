@@ -11,9 +11,9 @@ order: 1
 Sun Yike, born in Chengdu, Sichuan, China Province in 1999, received his bachelor's degree in engineering from the School of Computer Science and Engineering of Northeastern University (China) in 2020 and his doctor's degree in engineering from the School of Biomedical Engineering of Tsinghua University in 2025. The main research direction is brain-computer interface (BCI) system. Covering non-invasive and minimally invasive directions.
 
 ### 联系方式 Contact Me
-<a href="sun.yk.bci@outlook.com">sun.yk.bci@outlook.com</a> (International)
+sun.yk.bci@outlook.com (International)
 
-<a href="sunyk23@tsinghua.org.cn">sunyk23@tsinghua.org.cn</a> (China)
+sunyk23@tsinghua.org.cn (China)
 
 ### 友情链接 Friendship Link
 <a href="https://bme.buaa.edu.cn">北京航空航天大学生物与医学工程学院 | School of BME, BUAA</a>

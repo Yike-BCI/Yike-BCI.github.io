@@ -15,9 +15,10 @@ timezone: Asia/Shanghai
 # ↓ --------------------------
 
 title: | # the main title
-  孙艺珂<br>Yike Sun
+  Sun, Yike
 
 tagline: | # it will display as the subtitle
+  （孙艺珂）<br>
   Assistant Professor, Biomedical Engineering, BUAA, Beihang University, Beijing, China.
 
 

@@ -15,8 +15,10 @@ sunyk23@tsinghua.org.cn (China)
 ### Friendship Link
 <a href="https://bme.buaa.edu.cn">School of BME, BUAA</a>
 
-<a href="https://bme.buaa.edu.cn">Medical Engineering Cross Innovation Research Institute, BUAA</a>
+<a href="https://ygy.buaa.edu.cn">Medical Engineering Cross Innovation Research Institute, BUAA</a>
 
 <a href="https://bci.med.tsinghua.edu.cn">Tsinghua University BCI Lab</a>
 
 <a href="https://bme.cams.cn">Institute of BME, CAMS</a>
+
+<a href="https://ici.xmu.edu.cn/">Institute of Creativity and Innovation, Xiamen University</a>

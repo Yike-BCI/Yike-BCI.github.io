@@ -5,7 +5,7 @@ date: 2025-01-15 14:10:00 +0800
 categories: [Papers]
 tags: [Minimally Invasive, AICP, SSVEP]
 image:
-  path: /posts_image/目前最大的双频SSVEP数据集.jpg
+  path: /posts_image/离子电流通路.png
 render_with_liquid: false
 ---
 

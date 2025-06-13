@@ -5,7 +5,7 @@ date: 2024-09-19 14:10:00 +0800
 categories: [Papers]
 tags: [Data Set, EEG, SSVEP]
 image:
-  path: /posts_image/离子电流通路.png
+  path: /posts_image/目前最大的双频SSVEP数据集.jpg
 render_with_liquid: false
 ---
 

@@ -19,13 +19,12 @@ title: Yike Sun | 孙艺珂
 # tagline: | # it will display as the subtitle
 #   Assistant Professor, School of Engineering Medicine, BUAA, Beihang University, Beijing, China.
 
-
-description: | # used by seo meta and the atom feed
-  brain-computer interface, sun yike, yike sun, beihang university, BUAA, 孙艺珂
+# used by seo meta and the atom feed
+description: brain-computer interface, sun yike, yike sun, beihang university, BUAA, 孙艺珂
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "http://www.sunyike.org"
+url: "https://yike-bci.github.io"
 
 github:
   username: Yike-BCI # change to your GitHub username

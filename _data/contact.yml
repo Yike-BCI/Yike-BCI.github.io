@@ -6,6 +6,14 @@
 # - type: twitter
 #   icon: "fa-brands fa-x-twitter"
 
+- type: google-scholar
+  icon: "fa-brands fa-google-scholar"
+  url: 'https://scholar.google.com/citations?user=7SRfkJkAAAAJ'
+
+- type: researchgate
+  icon: "fa-brands fa-researchgate"
+  url: 'https://www.researchgate.net/profile/Yike-Sun-6'
+
 - type: email
   icon: "fas fa-envelope"
   noblank: true # open link in current tab

@@ -7,7 +7,7 @@ order: 2
 ### 2025
 1. **Sun, Y**, Gao, Y, Shen, A, Sun, J, Chen, X*, & Gao, X* (2025). Creating ionic current pathways: A non-implantation approach to achieving cortical electrical signals for brain-computer interface. Biosensors and Bioelectronics, 268, 116882. (Q1, IF(2-YEAR) = 10.5)
 2. **Sun, Y**#, Chen, X#, Liu, B, Liang, L, Wang, Y, Gao, S, & Gao, X* (2025). Signal acquisition of brain-computer interfaces: a medical-engineering crossover perspective review. Fundamental Research. (Q1, IF(2-YEAR) = 6.3)
-3. **Sun, Y**, Chen, X, Wang, Y, Li, Y, Zhang, Y, Wu, Q, Gao, S, & Gao, X* (2025). Connecting Minds and Devices: A Fifty-Year Review of Brain-Computer Interfaces. Chinese Journal of Electronics. (Q3, IF(2-YEAR) = 3)
+3. **Sun, Y**, Chen, X, Wang, Y, Li, Y, Zhang, Y, Wu, Q, Gao, S, & Gao, X* (2025). Connecting Minds and Devices: A Fifty-Year Review of Brain-Computer Interfaces. Chinese Journal of Electronics. (Q2, IF(2-YEAR) = 3)
 4. **Sun, Y**., Zhang, Z., Qi, Q., Li, X., Sun, J., Zhang, K., Zhuang, J., Chen, X., & Gao, X. (2025). Beyond Frequency: Leveraging Spatial Features in SSVEP-Based Brain-Computer Interfaces with Visual Animations. 2025 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC). 
 
 ### 2024
